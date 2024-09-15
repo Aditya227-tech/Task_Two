@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #ea510f;
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  min-height: 100vh; /* Ensure the body covers the full viewport height */
+  display: flex; /* Optional: Use flexbox for layout adjustments */
+  flex-direction: column;
+}
+
+img {
+  border-radius: 8px;
+}
